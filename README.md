@@ -1,7 +1,7 @@
 ## Sublime Text 系列
 
 * [前言](README.md)
-* [Sublime](Sublime/README.md)
+* [Sublime Text](Sublime/README.md)
 * [如何优雅地使用SublimeText](Sublime/如何优雅地使用SublimeText.md)
 * [SublimeText全程指引](Sublime/SublimeText全程指引.md)
 * [Sublime Text：学习资源篇](Sublime/SublimeText学习资源篇.md)
