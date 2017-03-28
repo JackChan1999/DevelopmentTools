@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: img
+---
+
 如何安装插件详见：[https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 关于Git的一些相关资源：[http://www.jianshu.com/p/25647b9920b7](http://www.jianshu.com/p/25647b9920b7)
 
@@ -95,3 +99,39 @@ SublimeGit的同类竞品
 - [Sublime插件：主题篇](http://www.jianshu.com/p/13fedee165f1)
 - [Sublime插件：Git篇](http://www.jianshu.com/p/3a8555c273d8)
 - [Sublime 小技巧：文本自动换行显示？](http://www.jianshu.com/p/c75d21d2e967)
+
+## Git插件使用
+
+快捷键ctrl+shift+p打开命令版，在输入框输入git即可显示git命令提示，底部是console控制台，输出执行git命令后的信息
+
+![git](img/git.png)
+
+### git add
+
+![git add](img/add.png)
+
+
+
+![1490675763919](img/1490675763919.png)
+
+### git commit 提交
+
+![git commit](img/commit.png)
+
+commit message
+
+![1490675871451](img/1490675871451.png)
+
+
+
+![1490675905110](img/1490675905110.png)
+
+
+
+### git push
+
+![1490675971336](img/1490675971336.png)
+
+
+
+![1490676010441](img/1490676010441.png)
