@@ -106,6 +106,12 @@ SublimeGit的同类竞品
 
 ![git](img/git.png)
 
+### git status
+
+![1490676180598](img/1490676180598.png)
+
+![1490676209396](img/1490676209396.png)
+
 ### git add
 
 ![git add](img/add.png)
