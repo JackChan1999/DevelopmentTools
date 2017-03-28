@@ -4,7 +4,7 @@ typora-copy-images-to: img
 
 ## 侧边栏
 
-view->side bar->show side bar（显示）
+view → side bar → show side bar（显示）
 
 ## package control 
 
