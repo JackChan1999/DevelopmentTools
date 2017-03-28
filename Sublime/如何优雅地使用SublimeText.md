@@ -193,7 +193,7 @@ SFTP：快速编辑远程服务器文件
 
 这款插件本身倒没什么。但是如果你写前端，并处在当下这个时代，她就很有用（话说，Eslint 等工程限制级工具必须使用吧，那么项目对于空格的约定肯定是有必要的，但也会令你头疼吧？那么这款插件的作用就体现出来了）她可以自动将多余的空格标红，以示提醒。当然，如果你想一键摒除之，这也很好办，加入一点配置即可：在 Preferences / Key Bindings – User加上如下代码即可（数组内部，当然快捷键可自行约定，我这里用的是 `ctrl+shift+d` ）；（ For Front-End）
 
-```
+```json
 { "keys": ["ctrl+shift+d"], "command": "delete_trailing_spaces" }
 ```
 
@@ -250,7 +250,7 @@ SFTP：快速编辑远程服务器文件
 
   - 安装IED：SublimeText3;完毕后上面选择:Build System–New Build System 输入：
 
-    ```
+    ```json
     {  
         "cmd": ["/usr/local/bin/lua", "$file"],  
         "file_regex": "^(...*?):([0-9]*):?([0-9]*)",  
@@ -341,7 +341,7 @@ SFTP：快速编辑远程服务器文件
 
 (21) 如何用 Sublime Text 实现快速搜索？如何使得 Sublime Text 侧边栏变得很清爽？从事前端开发，如何隐藏掉那 `node_modules` 那充满插件得文件夹？如何 Exclude 掉那些缓存文件、以及无需涉及到得文件？如何优化编辑器，来改善我们得工作和生活？现在有了拯救我生命的方法：打开设置（Sublime Text > Preferences > Settings，快捷键 `Command + ,`），注入如下配置即可；它即可将侧边栏的 node_modules 予以隐藏，So Nice；而你可根据自己的需要自行配置，从而使得可以优雅的使用，优雅的生活。
 
-```
+```json
 "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"]
 ```
 
