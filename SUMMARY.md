@@ -11,3 +11,4 @@
 	* [Sublime插件：主题篇](Sublime/Sublime插件：主题篇.md)
 	* [Sublime插件：Git篇](Sublime/Sublime插件：Git篇.md)
 	* [Sublime 小技巧：文本自动换行显示？](Sublime/Sublime小技巧：文本自动换行显示？.md)
+* [GitBook使用教程](GitBook/GitBook使用教程.md)
