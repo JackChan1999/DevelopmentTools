@@ -35,6 +35,8 @@ sublime text实现vim命令格式（Vintage插件是自带的插件，默认是�
 "vintage_start_in_command_mode": true
 ```
 
+
+
 ## 如何优雅的使用Sublime Text
 
 http://jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/

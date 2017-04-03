@@ -226,6 +226,11 @@ book.json
       "-search"
     ]
   },
+  "fontState": {
+    "size": "2",
+    "family": "sans",
+    "theme": "night"
+  },
   "pdf": {
     "pageNumbers": true, 
     "fontFamily": "Arial",
@@ -244,7 +249,7 @@ book.json
 | :------------------ | :--------------------------------------- |
 | `pdf.pageNumbers`   | 是否添加页码，默认是true                           |
 | `pdf.fontSize`      | 字体大小，默认是12                               |
-| `pdf.fontFamily`    | 字体，默认字体是Arial)                           |
+| `pdf.fontFamily`    | 字体，默认字体是Arial                            |
 | `pdf.paperSize`     | Paper size, options are `'a0', 'a1', 'a2', 'a3', 'a4', 'a5', 'a6', 'b0', 'b1', 'b2', 'b3', 'b4', 'b5', 'b6', 'legal', 'letter'` (default is `a4`) |
 | `pdf.margin.top`    | Top margin (default is `56`)             |
 | `pdf.margin.bottom` | Bottom margin (default is `56`)          |
