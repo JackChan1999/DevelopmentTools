@@ -4,7 +4,7 @@
 
 Android逆向助手是一功能强大的逆向辅助软件。该软件可以帮助用户来进行apk反编译打包签名；dex/jar互转替换提取修复；so反编译；xml、txt加密；字符串编码等等，操作简单，只需要直接将文件拖放到源和目标文件。
 
-![](../assets/jni34.png)
+![](img/反编译34.png)
 
 将下载好的rar 包解压缩以后目录结构如下（内置的广告被我删除后的）
 
@@ -12,29 +12,29 @@ Tips：lib 目录存放都是用java 写的核心反编译逻辑，必须跟exe 
 
 打开Android 逆向助手.exe，如下图所示：
 
-![](../assets/jni28.png)
+![](img/反编译28.png)
 
 选择源文件，并且选择（也是默认的选择）反编译apk，我们找到mtxx.apk 的路径，然后点击操作。
 在mtxx.apk 目录下生成了一个mtxx 文件夹，打开该文件，目录结构如下图所示：
 
-![](../assets/jni29.png)
+![](img/反编译29.png)
 
 在上面操作后打开lib 目录可以找到美图秀秀的动态库文件，但是我们还需要找到其java 代码。显然
 美图秀秀用smali 算法反编译了。那么我们接着下一步。
 
-![](../assets/jni30.png)
+![](img/反编译30.png)
 
 在Android 逆向助手.exe 中打开源文件，选择提取dex 点击执行。
 
-![](../assets/jni31.png)
+![](img/反编译31.png)
 
 这时候在目标文件夹下生成了dex 文件
 
-![](../assets/jni32.png)
+![](img/反编译32.png)
 
 最后在Android 逆向助手.exe 中选择dex 转jar 选项。在源文件中选择上一步生成的classes.dex 文件，然后点击执行（这个过程大概需要几秒的等待时间）。这时候该软件会自动将我们生成的jar 文件用jd-gui工具打开。打开效果如下所示：
 
-![](../assets/jni33.png)
+![](img/反编译33.png)
 
 # 2.  jadx
 
@@ -60,7 +60,7 @@ bin/jadx -d out class.dex  # 反编译后放入out文件夹下(如果out不存�
 bin/jadx-gui class.dex  # 会反编译，并且使用gui打开
 ```
 
-![](../assets/jadx.png)
+![](img/jadx.png)
 
 OK，就这样，后续还可以配置环境变量，更加方便
 
@@ -85,5 +85,12 @@ OK，就这样，后续还可以配置环境变量，更加方便
 [下载地址](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip) [使用指南](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/)
 是一款免费的APK分析软件，无论从分析的深度还是广度来看，都是一款能够满足用户需求的产品，使您在APK分析的过程中，更加得心应手。
 
-## 3.6Enjarify
+## 3.6 Enjarify
 Enjarify 是一个用 Python 写的， Google 官方开源的可以将 Dalvik 字节码转换为 Java 字节码的工具
+
+## 3.7 ApkTool
+
+http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/ApkTool.shtml
+
+## 3.8 Dextojar
+
