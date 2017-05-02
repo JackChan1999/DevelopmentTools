@@ -49,3 +49,5 @@
 * [bug管理](Bug/bug管理.md)
 * [Android反编译](Decompile/Android反编译.md)
 * [搭建个人博客](Blog/搭建个人博客.md)
+* [Android Studio 设置](Android-Studio\skill\AS设置.md)
+* [性能检测与分析工具](Android-Studio\studio\性能检测与分析工具.md)
