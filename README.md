@@ -40,7 +40,6 @@
   * [发布准备](Android-Studio\发布准备.md)
   * [对您的应用进行版本控制](Android-Studio\对您的应用进行版本控制.md)
   * [签署您的应用](Android-Studio\签署您的应用.md)
-
 * [谷歌搜索语法1](Tools/谷歌搜索语法1.md)
 * [谷歌搜索语法2](Tools/谷歌搜索语法2.md)
 * [这些 Google 高级搜索技巧，你都知道么？](Tools/这些Google高级搜索技巧，你都知道么？.md)
@@ -53,6 +52,7 @@
 * [搭建个人博客](Blog/搭建个人博客.md)
 * [Android Studio 设置](Android-Studio\skill\AS设置.md)
 * [性能检测与分析工具](Android-Studio\studio\性能检测与分析工具.md)
+* [开发常用软件、工具、插件、网站](Tools/soft.md)
 
 ## 关注我
 

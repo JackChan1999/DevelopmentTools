@@ -32,6 +32,14 @@ typora-copy-images-to: img
 | Ctrl + O           | 显示一个的成员：成员变量，方法                          |
 | Ctrl + Shift + T   | 查找类                                      |
 
+Ctrl + F4 关闭类
+
+shift + esc 隐藏侧边栏
+
+Alt + 1 显示隐藏工程面板
+
+Alt + 7 显示隐藏Structure面板
+
 ![1493270882232](img/1493270882232.png)
 
 ![](img/shortcut.jpg)
@@ -138,6 +146,8 @@ Ctrl + Alt + shift + f8
 ![1493644157059](img/1493644157059.png)
 
 ## 附加调试
+
+正常启动程序，点击附加调试按钮，随时进入调试模式
 
 ![1493646521249](img/1493646521249.png)
 
