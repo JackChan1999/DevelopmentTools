@@ -12,39 +12,53 @@
 | 黑马程序员                 |                         |
 | 360代码卫士               |                         |
 |                       |                         |
-|                       |                         |
-|                       |                         |
-|                       |                         |
-|                       |                         |
 
 ## 软件
 
-| 软件                         | 说明                             |
-| -------------------------- | ------------------------------ |
-| MindManager                | 思维导航                           |
-| Xmind                      | 思维导航                           |
-| HiJson                     | Json编辑                         |
-| JsonViewer                 | Json在线编辑http://www.bejson.com/ |
-| Sublime                    | 文本编辑器                          |
-| Atom                       | 文本编辑器                          |
-| Typora                     | Markdown编辑器                    |
-| GitBook                    | 电子书制作、发布、出版的网站和工具              |
-| Git                        | 版本控制软件，代码管理                    |
-| GitFlow                    | 分支管理                           |
-| securecrt                  | 虚拟机                            |
-| VMware                     | 虚拟机                            |
-| jude                       | 画图工具                           |
-| FreeVideoToGif             | gif图片处理                        |
-| ScreenToGif                | gif图片处理                        |
-| 豆约翰博客备份专家                  | 博客备份                           |
-| GifCam                     | gif录制                          |
-| SQLite_Expert_Professional | 数据库专家                          |
-| MarkMan                    | 镜像：www.wacao.org               |
-| Firebase                   | 云服务                            |
-| Vim                        | 文本编辑                           |
-| Diagram designer           |                                |
-|                            |                                |
-|                            |                                |
+| 软件                         | 说明               |
+| -------------------------- | ---------------- |
+| securecrt                  | 虚拟机              |
+| VMware                     | 虚拟机              |
+| jude                       | 画图工具             |
+| FreeVideoToGif             | gif图片处理          |
+| ScreenToGif                | gif图片处理          |
+| 豆约翰博客备份专家                  | 博客备份             |
+| GifCam                     | gif录制            |
+| SQLite_Expert_Professional | 数据库专家            |
+| MarkMan                    | 镜像：www.wacao.org |
+| Firebase                   | 云服务              |
+| Diagram designer           |                  |
+
+## 思维导航
+
+| 软件/网站       | 说明                       |
+| :---------- | :----------------------- |
+| MindManager | 思维导航                     |
+| Xmind       | 思维导航                     |
+| ProcessOn   | 免费在线作图，实时协作，思维导航，流程图，UML |
+|             |                          |
+
+## 开发工具
+
+| 开发工具       | 说明                             |
+| :--------- | :----------------------------- |
+| Git        | 版本控制软件，代码管理                    |
+| GitBook    | 电子书制作、发布、出版的网站和工具              |
+| GitFlow    | 分支管理                           |
+| HiJson     | Json编辑                         |
+| JsonViewer | Json在线编辑http://www.bejson.com/ |
+
+## 编辑器
+
+| 编辑器       | 说明          |
+| :-------- | :---------- |
+| Vim       | 编辑器之神       |
+| EMACS     |             |
+| Atom      | 文本编辑器       |
+| Sublime   | 文本编辑器       |
+| Notepad++ |             |
+| EditPlus  |             |
+| Typora    | Markdown编辑器 |
 
 ## 网络
 
