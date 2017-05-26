@@ -48,6 +48,10 @@ Alt + 7 显示隐藏Structure面板
 
 ![](http://img.blog.csdn.net/20170305222602447?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXhpMjk1MzA5MDY2/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
+## Ctrl + Shift + R 查找文件
+
+![1495545677617](img/1495545677617.png)
+
 ## Ctrl + O 
 
 显示一个类的成员：成员变量，方法，输入方法名可以快速定位到方法位置
@@ -218,3 +222,27 @@ Ctrl + Alt + H
 ### aar
 
 ![1493656404973](img/1493656404973.png)
+
+## 找打开的页面是哪个Activity
+
+当跳转到一个Activity的时候，logcat会打印一条日志，显示开启的Activity
+
+![1495365715459](img/1495365715459.png)
+
+## 代码回退
+
+代码未commit
+
+![1495419170883](img/1495419170883.png)
+
+代码已commit
+
+![1495419472719](img/1495419472719.png)
+
+![1495419590193](img/1495419590193.png)
+
+## 合并分支
+
+![1495419900205](img/1495419900205.png)
+
+![1495419942338](img/1495419942338.png)
