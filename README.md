@@ -40,10 +40,16 @@
   * [发布准备](Android-Studio\发布准备.md)
   * [对您的应用进行版本控制](Android-Studio\对您的应用进行版本控制.md)
   * [签署您的应用](Android-Studio\签署您的应用.md)
+
+## Google搜索
+
 * [谷歌搜索语法1](Tools/谷歌搜索语法1.md)
 * [谷歌搜索语法2](Tools/谷歌搜索语法2.md)
 * [这些 Google 高级搜索技巧，你都知道么？](Tools/这些Google高级搜索技巧，你都知道么？.md)
 * [Google搜索语法](Tools/google搜索语法.md)
+
+## 软件开发常用
+
 * [设计](Tools/design.md)
 * [code review](Tools/code review.md)
 * [androidxref](Tools/androidxref.md)
