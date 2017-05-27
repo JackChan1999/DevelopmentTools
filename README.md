@@ -60,6 +60,14 @@
 * [性能检测与分析工具](Android-Studio\studio\性能检测与分析工具.md)
 * [开发常用软件、工具、插件、网站](Tools/soft.md)
 
+## Git教程
+
+https://www.gitbook.com/book/alleniverson/gitcourse/details
+
+## Android Studio 使用教程
+
+https://www.gitbook.com/book/alleniverson/android-studio/details
+
 ## 关注我
 
 - Email：<815712739@qq.com>
