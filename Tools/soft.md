@@ -58,6 +58,7 @@
 | Dash                                     | 大到你无法想象的API离线文档软件                        |
 | [JRebel](https://zeroturnaround.com/)    | Android 高效开发调试神器                         |
 | [Freeline](https://github.com/alibaba/freeline) | Android 秒级编译，阿里巴巴出品                      |
+| [ClassyShark](https://github.com/google/android-classyshark) | apk分析利器                                  |
 
 ## 编辑器
 
@@ -119,3 +120,14 @@
 | [红烛电子教鞭](http://3000soft.net/)    |              |
 | LICEcap                           | 一款屏幕录制工具     |
 | CamtasiaStudio4                   | 录屏软件         |
+
+## 反编译
+
+| 反编译工具   | 说明                |
+| :------ | :---------------- |
+| jadx    | 新一代反编译工具          |
+| apktool |                   |
+| 安卓逆向助手  | 反编译工具大合集，现在用的已经不多 |
+| dex2jar |                   |
+| JD-GUI  |                   |
+| procyon |                   |

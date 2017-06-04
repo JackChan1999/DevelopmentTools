@@ -46,6 +46,7 @@
 * [你所不知道的AndroidStudio调试技巧](Android-Studio/debug/你所不知道的AndroidStudio调试技巧.md)
 * [给Android初学者的Gradle知识普及](Android-Studio/gradle/给Android初学者的Gradle知识普及.md)
 * [Android开发你需要了解的Gradle配置](Android-Studio/gradle/Android开发你需要了解的Gradle配置.md)
+* [命令行运行Gradle](Android-Studio/gradle/gradle使用.md)
 * [Android Studio常用插件](Android-Studio/plugin/plugin.md)
 * [Android Studio常用快捷键](Android-Studio/shortcut/shortcut.md)
 * [AS技巧合集「编码技巧篇」](Android-Studio/skill/AS技巧合集「编码技巧篇」.md)
