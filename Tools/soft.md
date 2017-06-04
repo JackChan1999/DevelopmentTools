@@ -28,6 +28,7 @@
 | MarkMan                    | 镜像：www.wacao.org |
 | Firebase                   | 云服务              |
 | Foxmail                    | 邮件管理             |
+| Licecap                    | 最简单的屏幕录制工具，生成gif |
 
 ## 思维导航
 
@@ -54,6 +55,7 @@
 | Axure RP                                 | 原型图工具                                    |
 | [夜神安卓模拟器](https://www.yeshen.com/#p4)    | 全新一代的安卓模拟器，与传统安卓模拟器相比，基于ANDROID4.4.2,兼容X86/AMD,在性能、稳定性、兼容性等方面有着巨大优势 |
 | [Genymotion](http://www.genymotion.net/) | 最快的安卓模拟器，测试与模拟APP应用必备                    |
+| Dash                                     | 大到你无法想象的API离线文档软件                        |
 
 ## 编辑器
 
@@ -65,8 +67,9 @@
 | Sublime   | 最好用的文本编辑器之一                              |
 | Notepad++ | 文本编辑器                                    |
 | EditPlus  | 文本编辑器                                    |
-| Typora    | Markdown编辑器                              |
+| Typora    | 免费的Markdown编辑器，所见即所得                     |
 | MdCharm   | Markdown编辑器                              |
+| FarBox    | Windows上最优雅的Markdown编辑工具                 |
 
 ## 网络
 
@@ -84,11 +87,11 @@
 
 ## 云笔记
 
-| 软件    | 说明          |
-| :---- | :---------- |
-| 印象笔记  | 不支持markdown |
-| 有道云笔记 | 支持markdown  |
-| 为知笔记  |             |
+| 软件    | 说明                          |
+| :---- | :-------------------------- |
+| 印象笔记  | 不支持markdown                 |
+| 有道云笔记 | 支持markdown                  |
+| 为知笔记  | 云笔记,团队协作,知识管理,记事本,日记本,信息过滤器 |
 
 ## 搜索
 
@@ -98,9 +101,10 @@
 
 ## Chrome插件
 
-| 插件      | 功能说明     |
-| :------ | :------- |
-| Postman | 模拟网络请求插件 |
+| 插件       | 功能说明                                     |
+| :------- | :--------------------------------------- |
+| Postman  | 模拟网络请求插件， 开发者调试网络必备，可以直接发送一个请求，自定义params、header，查看response状态等 |
+| Octotree | 直接在Chrome侧边栏向打开文件夹一样的查看别人的项目             |
 
 ## 视频录制  
 
@@ -110,6 +114,6 @@
 | [红蜘蛛软件](http://www.3000soft.net/) | 红蜘蛛多媒体网络教室软件 |
 | 锐动多媒体                             | 屏幕录制         |
 | CamRecorder                       | 视频录制         |
-| 红烛电子教鞭                            |              |
+| [红烛电子教鞭](http://3000soft.net/)    |              |
 | LICEcap                           | 一款屏幕录制工具     |
 | CamtasiaStudio4                   | 录屏软件         |
