@@ -242,6 +242,22 @@
 
 ------
 
+#### Extract Resource
+
+最近，想对项目做点小重构，不经意间发现一个 Android Studio 小技巧，实话说，以前并不知道，有点小惊喜，于是迫不及待分享出来。
+
+我们知道 Android 开发中，是不建议在布局文件或者代码中直接出现字符串的，而应该把字符串统一放在 String 的 xml 资源文件中，具体原因就不多解释了。
+
+但是因为之前的老项目不太规范，或者有些开发的时候比较紧急，就直接裸写的字符串，现在有时间了，需要处理的时候还挺麻烦的，需要把字符串拷贝到 strings.xml 中，然后取一个 id，再之后把之前的字符串替换成 id。
+
+是不是稍显麻烦？但是 AS 有个神秘的技巧可以一键帮你搞定。废话不多说，直接看演示动图：
+
+![](http://mmbiz.qpic.cn/mmbiz_gif/159icnNTXChPeUZaGXul0xRk5L4cbqWj0cLlRh0NoIPwYOXCudovFn1uE6EVAYdDRC8Bfibibz4fviaIdU4BROoUqA/0?tp=webp&wxfrom=5&wx_lazy=1)
+
+是不是很方便酷炫？
+
+其实不止在布局文件中，同样适用于代码中，直接鼠标定位在字符串位置，然后 Alt + Enter -> Extract string/dimension resource 就 ok 了，简直不要太方便。
+
 > 文章来自「AndroidDeveloper」，微信号「googdev」，意为google developer，如果觉得不错，不妨分享给你的朋友们。
 
 ![img](http://mmbiz.qpic.cn/mmbiz/159icnNTXChOl40W3NDcSdoITCZqk3jtDTXPxmfb6zUDycxHPxbcicMz75Yo9057dc2IHpf2iaQLgZiavoXI7taPVQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)

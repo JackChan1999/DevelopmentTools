@@ -56,6 +56,8 @@
 | [夜神安卓模拟器](https://www.yeshen.com/#p4)    | 全新一代的安卓模拟器，与传统安卓模拟器相比，基于ANDROID4.4.2,兼容X86/AMD,在性能、稳定性、兼容性等方面有着巨大优势 |
 | [Genymotion](http://www.genymotion.net/) | 最快的安卓模拟器，测试与模拟APP应用必备                    |
 | Dash                                     | 大到你无法想象的API离线文档软件                        |
+| [JRebel](https://zeroturnaround.com/)    | Android 高效开发调试神器                         |
+| [Freeline](https://github.com/alibaba/freeline) | Android 秒级编译，阿里巴巴出品                      |
 
 ## 编辑器
 
