@@ -68,8 +68,10 @@ android {
 
     }
     buildTypes {
+        // 发布版
         release {
-            minifyEnabled false
+            minifyEnabled true // 打开混淆
+            shrinkResources true // 打开资源压缩
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }

@@ -1,18 +1,19 @@
 ## 网站
 
-| 网站                                       | 说明                      |
-| :--------------------------------------- | :---------------------- |
-| GitHub                                   | 全球最大的同性交友网站             |
-| StackOverflow                            | 著名的IT技术问答网站             |
-| CSDN                                     | 中国最大的IT社区和服务平台          |
-| grepcode.com                             | 源码网站                    |
-| 极客学院                                     | Material Design、wiki    |
-| [Android经典开源代码分享](http://www.23code.com) | UI特效大全(android经典开源代码分享) |
-| 慕课网                                      |                         |
-| 黑马程序员                                    |                         |
-| 360代码卫士                                  |                         |
-| http://editor.method.ac/                 | 矢量图绘制网站                 |
-| http://inloop.github.io/svg2android/     | svg转换工具                 |
+| 网站                                       | 说明                                       |
+| :--------------------------------------- | :--------------------------------------- |
+| [AndroidDevTools](http://www.androiddevtools.cn/) | 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等 |
+| GitHub                                   | 全球最大的程序员同性交友网站                           |
+| StackOverflow                            | 著名的IT技术问答网站                              |
+| CSDN                                     | 中国最大的IT社区和服务平台                           |
+| grepcode.com                             | 源码网站                                     |
+| 极客学院                                     | Material Design、wiki                     |
+| [Android经典开源代码分享](http://www.23code.com) | UI特效大全(android经典开源代码分享)                  |
+| 慕课网                                      |                                          |
+| 黑马程序员                                    |                                          |
+| 360代码卫士                                  |                                          |
+| http://editor.method.ac/                 | 矢量图绘制网站                                  |
+| http://inloop.github.io/svg2android/     | svg转换工具                                  |
 
 ## 软件
 
@@ -59,6 +60,9 @@
 | [JRebel](https://zeroturnaround.com/)    | Android 高效开发调试神器                         |
 | [Freeline](https://github.com/alibaba/freeline) | Android 秒级编译，阿里巴巴出品                      |
 | [ClassyShark](https://github.com/google/android-classyshark) | apk分析利器                                  |
+| [Source Insight](https://www.sourceinsight.com/) | 源码查看工具                                   |
+| [Checkstyle](http://checkstyle.sourceforge.net/) | 代码规范工具                                   |
+| CCNET                                    | DAILY BUILD，一个代码开发阶段流程的自动管理监控工具；所包括的流程有根据设定的任务从指定的代码库中CHECK OUT代码、然后自动编译、自动代码检查、自动单元测试，并将编译和测试的结果进行记录和反馈（EMAIL方式等），并有还算不错的WEB应用平台进行呈现，也支持一部分的分析工作。 |
 
 ## 编辑器
 
@@ -104,10 +108,17 @@
 
 ## Chrome插件
 
-| 插件       | 功能说明                                     |
-| :------- | :--------------------------------------- |
-| Postman  | 模拟网络请求插件， 开发者调试网络必备，可以直接发送一个请求，自定义params、header，查看response状态等 |
-| Octotree | 直接在Chrome侧边栏向打开文件夹一样的查看别人的项目             |
+| 插件                      | 功能说明                                     |
+| :---------------------- | :--------------------------------------- |
+| Postman                 | 模拟网络请求插件， 开发者调试网络必备，可以直接发送一个请求，自定义params、header，查看response状态等 |
+| Octotree                | 直接在Chrome侧边栏向打开文件夹一样的查看别人的项目             |
+| OneTab                  | 记录tab                                    |
+| Save to Pocket          | 收藏同步网页                                   |
+| Page Rule               | 设计师必备，可以直接查看网页一些图片的详细像素大小、具体位置等，非常实用。    |
+| Isometric Contributions | 让你在GitHub上的commit像盖楼一样的展示                |
+| Avatars for Github      | 主页动态显示头像                                 |
+| JSONView                | json格式化                                  |
+| Dribbble New Tab        |                                          |
 
 ## 视频录制  
 
