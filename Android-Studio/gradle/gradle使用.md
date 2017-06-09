@@ -44,21 +44,53 @@ gradlew build
 
 ![1496586530061](img/1496586530061.png)
 
+## build.gradle
+
+```
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.0'
+    }
+}
+allprojects {
+    repositories {
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+}
+
+ext{ 
+  	compileSdkVersion 25
+  	buildToolsVersion "25.0.3"
+  	minSdkVersion 14
+  	targetSdkVersion 25
+  	versionCode 1
+  	versionName "1.0"
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+```
+
 ## module gradle
 
 ```gradle
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.3"
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
         applicationId "com.jackchan.processorsample"
-        minSdkVersion 14
-        targetSdkVersion 25
-        versionCode 1
-        versionName "1.0"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode rootProject.ext.versionCode
+        versionName rootProject.ext.versionName
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         
@@ -80,6 +112,20 @@ android {
         targetCompatibility JavaVersion.VERSION_1_7
         sourceCompatibility = JavaVersion.VERSION_1_7
     }
+    
+    lintOptions{
+      abortOnError false
+    }
+    
+    signingConfigs{
+      release{
+        storeFile file("a.jks")
+        storePassword "1234567"
+        storePassword System.properties[]
+        keyAlias "别名"
+        keyPassword "1234567"
+      }
+    }
 }
 
 // 错误 编码GBK的不可映射字符
@@ -95,3 +141,72 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
 }
 ```
+aar：包含源码和资源
+
+## local.properties
+
+配置sdk路径
+
+## gradle.properties
+
+```
+## Project-wide Gradle settings.
+#
+# For more details on how to configure your build environment visit
+# http://www.gradle.org/docs/current/userguide/build_environment.html
+#
+# Specifies the JVM arguments used for the daemon process.
+# The setting is particularly useful for tweaking memory settings.
+# Default value: -Xmx1024m -XX:MaxPermSize=256m
+# org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
+#
+# When configured, Gradle will run in incubating parallel mode.
+# This option should only be used with decoupled projects. More details, visit
+# http://www.gradle.org/docs/current/userguide/multi_project_builds.html#sec:decoupled_projects
+# org.gradle.parallel=true
+#Sun Feb 12 18:25:21 CST 2017
+systemProp.http.proxyHost=hx.gy
+org.gradle.jvmargs=-Xmx1536m
+systemProp.http.proxyPort=1080
+
+systemProp.keyAliasPassword=1234567
+systemProp.Alias="xyz"
+systemProp.keyStorePassword=1234567
+systemProp.keyStore=a.jks
+```
+
+## 多渠道打包
+
+在AndroidManifest.xml中配置元信息
+
+```
+<meta-data
+	android:name="PRODUCT"
+	android:value="${CHANNEL_VALUE}"
+/>
+```
+
+## Task
+
+### assemble
+
+assembleDebug
+
+assembleRelease
+
+gradle assembleDebug
+
+gradle assembleRelease
+
+### check
+
+check task 检查任务
+
+### clean
+
+清理所有的的中间编译结果，类似与IDE的clean工作
+
+
+
+
+

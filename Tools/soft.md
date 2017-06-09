@@ -7,6 +7,7 @@
 | StackOverflow                            | 著名的IT技术问答网站                              |
 | CSDN                                     | 中国最大的IT社区和服务平台                           |
 | grepcode.com                             | 源码网站                                     |
+| AndroidXref                              | 在线源代码搜索                                  |
 | 极客学院                                     | Material Design、wiki                     |
 | [Android经典开源代码分享](http://www.23code.com) | UI特效大全(android经典开源代码分享)                  |
 | 慕课网                                      |                                          |
@@ -44,6 +45,8 @@
 | 开发工具                                     | 说明                                       |
 | :--------------------------------------- | :--------------------------------------- |
 | Git                                      | 版本控制软件，代码管理                              |
+| Gitlab                                   | 代码托管服务器                                  |
+| [sonatype Nexus](http://www.sonatype.org/) | Maven服务器                                 |
 | SmartGit                                 | 图形化版本控制工具                                |
 | SourceTree                               | 图形化版本控制工具                                |
 | GitBook                                  | 电子书制作、发布、出版的网站和工具                        |
@@ -63,6 +66,12 @@
 | [Source Insight](https://www.sourceinsight.com/) | 源码查看工具                                   |
 | [Checkstyle](http://checkstyle.sourceforge.net/) | 代码规范工具                                   |
 | CCNET                                    | DAILY BUILD，一个代码开发阶段流程的自动管理监控工具；所包括的流程有根据设定的任务从指定的代码库中CHECK OUT代码、然后自动编译、自动代码检查、自动单元测试，并将编译和测试的结果进行记录和反馈（EMAIL方式等），并有还算不错的WEB应用平台进行呈现，也支持一部分的分析工作。 |
+| [mkdocs](http://www.mkdocs.org/)         | 项目文档生成器                                  |
+| [raneto docs](http://raneto.com/)        | 项目文档生成器                                  |
+| Gerrit                                   | 一个免费、开放源代码的代码审查软件，使用网页界面。Android源代码就是Gerrit进行code review的 |
+| [reviewboard](https://www.reviewboard.org/) | 代码审查软件                                   |
+| [JIRA](https://atlassian.com/software/jira) | Bug跟踪管理工具                                |
+| [bugzilla](https://www.bugzilla.org/)    | bug跟踪管理系统                                |
 
 ## 编辑器
 
@@ -119,6 +128,7 @@
 | Avatars for Github      | 主页动态显示头像                                 |
 | JSONView                | json格式化                                  |
 | Dribbble New Tab        |                                          |
+| codota                  | 代码搜索利器                                   |
 
 ## 视频录制  
 
