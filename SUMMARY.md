@@ -22,6 +22,7 @@
 ----
 
 * [博客编辑神器：Markdown编辑器](Markdown/博客编辑神器：Markdown编辑器.md)
+* [HTML转移字符](Markdown/HTML转移字符.md)
 
 ----
 

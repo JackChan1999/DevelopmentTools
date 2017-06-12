@@ -76,6 +76,11 @@
 * [程序员应该掌握的10个搜索技巧](Google/程序员应该掌握的10个搜索技巧.md)
 * [你不知道的Google Search](Google/你不知道的Google Search.md)
 
+## Markdown编辑器
+
+- [博客编辑神器：Markdown编辑器](Markdown/博客编辑神器：Markdown编辑器.md)
+- [HTML转移字符](Markdown/HTML转移字符.md)
+
 ## 软件开发常用
 
 * [设计](Tools/design.md)
