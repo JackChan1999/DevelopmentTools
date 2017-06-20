@@ -104,7 +104,7 @@ https://pan.baidu.com/share/home?uk=2673153485&view=share#category/type=0
 
 ## 经典书籍
 
-- 郭霖 《第一行代码》
+- 郭霖 《第一行代码 第二版》
 - 徐宜生 《Android群英传》《Android群英传：神兵利器》
 - MR.Simple 《Android开发进阶 从小工到专家》《Android 源码设计模式解析与实战》
 - 包建强 《App研发录：架构设计、Crash分析和竞品技术分析》

@@ -14,6 +14,7 @@
 * [Sublime插件：主题篇](Sublime/Sublime插件：主题篇.md)
 * [Sublime插件：Git篇](Sublime/Sublime插件：Git篇.md)
 * [Sublime 小技巧：文本自动换行显示？](Sublime/Sublime小技巧：文本自动换行显示？.md)
+* [使用正则表达式查找替换](Sublime/使用正则表达式查找替换.md)
 
 ----
 
@@ -22,7 +23,7 @@
 ----
 
 * [博客编辑神器：Markdown编辑器](Markdown/博客编辑神器：Markdown编辑器.md)
-* [HTML转移字符](Markdown/HTML转移字符.md)
+* [HTML转义字符](Markdown/HTML转义字符.md)
 
 ----
 
