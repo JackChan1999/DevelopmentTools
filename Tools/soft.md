@@ -56,6 +56,7 @@
 | 午安浏览器                                    | 可以翻墙的浏览器，看见更大的世界                         |
 | [Diagram Designer](http://meesoft.logicnet.dk/DiagramDesigner/) | 一款小巧易用的流程图工具，如果你对于流程图没有特殊的要求，那么这款小软件足够满足你的需求，最重要的是它完全免费。 |
 | [jude](http://astah.net/editions/community) | 一个小巧实用的UML建模软件                           |
+| MagicDraw UML                            | UML工具                                    |
 | Axure RP                                 | 原型图工具                                    |
 | [夜神安卓模拟器](https://www.yeshen.com/#p4)    | 全新一代的安卓模拟器，与传统安卓模拟器相比，基于ANDROID4.4.2,兼容X86/AMD,在性能、稳定性、兼容性等方面有着巨大优势 |
 | [Genymotion](http://www.genymotion.net/) | 最快的安卓模拟器，测试与模拟APP应用必备                    |
