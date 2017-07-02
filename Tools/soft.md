@@ -21,7 +21,8 @@
 | 软件                         | 说明               |
 | :------------------------- | :--------------- |
 | securecrt                  | 虚拟机              |
-| VMware                     | 虚拟机              |
+| VMware                     | 虚拟机，收费           |
+| VirtualBox                 | 虚拟机，免费           |
 | FreeVideoToGif             | gif图片处理          |
 | ScreenToGif                | gif图片处理          |
 | 豆约翰博客备份专家                  | 博客备份             |
@@ -54,9 +55,6 @@
 | HiJson                                   | Json编辑                                   |
 | [JsonViewer](http://www.bejson.com/)     | Json在线编辑                                 |
 | 午安浏览器                                    | 可以翻墙的浏览器，看见更大的世界                         |
-| [Diagram Designer](http://meesoft.logicnet.dk/DiagramDesigner/) | 一款小巧易用的流程图工具，如果你对于流程图没有特殊的要求，那么这款小软件足够满足你的需求，最重要的是它完全免费。 |
-| [jude](http://astah.net/editions/community) | 一个小巧实用的UML建模软件                           |
-| MagicDraw UML                            | UML工具                                    |
 | Axure RP                                 | 原型图工具                                    |
 | [夜神安卓模拟器](https://www.yeshen.com/#p4)    | 全新一代的安卓模拟器，与传统安卓模拟器相比，基于ANDROID4.4.2,兼容X86/AMD,在性能、稳定性、兼容性等方面有着巨大优势 |
 | [Genymotion](http://www.genymotion.net/) | 最快的安卓模拟器，测试与模拟APP应用必备                    |
@@ -73,6 +71,47 @@
 | [reviewboard](https://www.reviewboard.org/) | 代码审查软件                                   |
 | [JIRA](https://atlassian.com/software/jira) | Bug跟踪管理工具                                |
 | [bugzilla](https://www.bugzilla.org/)    | bug跟踪管理系统                                |
+| [FileZilla](https://pan.baidu.com/s/1pLs8o6v#list/path=%2F) | 一个免费的FTP软件                               |
+| [飞秋](https://pan.baidu.com/s/1qXUjFQk#list/path=%2F) | 局域网的通讯神器                                 |
+| WFilter                                  | 超级嗅探狗                                    |
+| Xmanager                                 | 一款小巧、便捷的浏览远端X窗口系统的工具。它包含Xshell、Xftp等软件。Windows 平台下远程登录 Linux |
+| http.tar.gz                              | 用C语言编程的一个简单版webserver                    |
+| Xshell                                   | 一个Windows平台下的SSH、TELNET和RLOGIN终端软件。它使得用户能轻松和安全地在Windows平台上访问Unix/Linux 主机。 |
+| Xftp                                     | Xftp：是一个应用于 Windows 平台的 FTP 和 SFTP 文件传输程序。Xftp能安全地在Unix/Linux 和 Windows 平台之间传输文件。 |
+| Navicat                                  | mysql数据库管理工具                             |
+
+## IDE
+
+| IDE            | 说明                                       |
+| -------------- | ---------------------------------------- |
+| Android Studio | Android开发官方开发工具                          |
+| IntelliJ IDEA  | java语言开发的集成环境，IntelliJ在业界被公认为最好的java开发工具之一，尤其在智能代码助手、代码自动提示、重构、J2EE支持、各类版本工具 |
+| Eclipse        | 免费的集成开发工具                                |
+| MyEclipse      | 收费的集成开发工具                                |
+| Visual Studio  | 微软开发工具集                                  |
+| Qt Creator     | 一款新的轻量级集成开发环境                            |
+| Samba          | Samba是在Linux和UNIX系统上实现SMB协议的一个免费软件，由服务器及客户端程序构成 |
+
+## 版本控制
+
+| 软件          | 说明             |
+| ----------- | -------------- |
+| Git         | 分布式版本控制软件，代码管理 |
+| SmartGit    | 图形化版本控制工具      |
+| SourceTree  | 图形化版本控制工具      |
+| GitFlow     | 分支管理           |
+| TortoiseGit | 分布式版本控制工具      |
+| TortoiseSVN | 集中式版本控制工具      |
+
+## UML
+
+| UML工具                                    | 说明                                       |
+| ---------------------------------------- | ---------------------------------------- |
+| MagicDraw UML                            | UML工具                                    |
+| [jude](http://astah.net/editions/community) | 一个小巧实用的UML建模软件                           |
+| [Diagram Designer](http://meesoft.logicnet.dk/DiagramDesigner/) | 一款小巧易用的流程图工具，如果你对于流程图没有特殊的要求，那么这款小软件足够满足你的需求，最重要的是它完全免费。 |
+| StarUML                                  | UML工具                                    |
+| Visio                                    | 微软的UML工具                                 |
 
 ## 编辑器
 
@@ -101,6 +140,7 @@
 | Lantern         | 翻墙             |
 | goagent         | 翻墙             |
 | vpnso           | 翻墙             |
+| shadowsocks     | 翻墙工具，python安装  |
 
 ## 云笔记
 
@@ -133,15 +173,17 @@
 
 ## 视频录制  
 
-| 软件                                | 说明           |
-| :-------------------------------- | :----------- |
-| Bandicam                          |              |
-| [红蜘蛛软件](http://www.3000soft.net/) | 红蜘蛛多媒体网络教室软件 |
-| 锐动多媒体                             | 屏幕录制         |
-| CamRecorder                       | 视频录制         |
-| [红烛电子教鞭](http://3000soft.net/)    |              |
-| LICEcap                           | 一款屏幕录制工具     |
-| CamtasiaStudio4                   | 录屏软件         |
+| 软件                                       | 说明               |
+| :--------------------------------------- | :--------------- |
+| Bandicam                                 |                  |
+| [红蜘蛛软件](http://www.3000soft.net/)        | 红蜘蛛多媒体网络教室软件     |
+| 锐动多媒体                                    | 屏幕录制             |
+| CamRecorder                              | 视频录制             |
+| [红烛电子教鞭](http://3000soft.net/)           |                  |
+| LICEcap                                  | 一款屏幕录制工具         |
+| CamtasiaStudio4                          | 录屏软件             |
+| [ScreenFlow](https://pan.baidu.com/s/1o8Kvr9C) | 录屏软件             |
+| FastStone Capture                        | 一款抓屏工具，体积小巧、功能强大 |
 
 ## 反编译
 
