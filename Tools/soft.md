@@ -61,7 +61,6 @@
 | Dash                                     | 大到你无法想象的API离线文档软件                        |
 | [JRebel](https://zeroturnaround.com/)    | Android 高效开发调试神器                         |
 | [Freeline](https://github.com/alibaba/freeline) | Android 秒级编译，阿里巴巴出品                      |
-| [ClassyShark](https://github.com/google/android-classyshark) | apk分析利器                                  |
 | [Source Insight](https://www.sourceinsight.com/) | 源码查看工具                                   |
 | [Checkstyle](http://checkstyle.sourceforge.net/) | 代码规范工具                                   |
 | CCNET                                    | DAILY BUILD，一个代码开发阶段流程的自动管理监控工具；所包括的流程有根据设定的任务从指定的代码库中CHECK OUT代码、然后自动编译、自动代码检查、自动单元测试，并将编译和测试的结果进行记录和反馈（EMAIL方式等），并有还算不错的WEB应用平台进行呈现，也支持一部分的分析工作。 |
@@ -75,10 +74,12 @@
 | [飞秋](https://pan.baidu.com/s/1qXUjFQk#list/path=%2F) | 局域网的通讯神器                                 |
 | WFilter                                  | 超级嗅探狗                                    |
 | Xmanager                                 | 一款小巧、便捷的浏览远端X窗口系统的工具。它包含Xshell、Xftp等软件。Windows 平台下远程登录 Linux |
+| SecureCRT                                | 是一款支持SSH（SSH1和SSH2）的终端仿真程序，简单地说是Windows下登录UNIX或Linux服务器主机的软件。 |
 | http.tar.gz                              | 用C语言编程的一个简单版webserver                    |
 | Xshell                                   | 一个Windows平台下的SSH、TELNET和RLOGIN终端软件。它使得用户能轻松和安全地在Windows平台上访问Unix/Linux 主机。 |
 | Xftp                                     | Xftp：是一个应用于 Windows 平台的 FTP 和 SFTP 文件传输程序。Xftp能安全地在Unix/Linux 和 Windows 平台之间传输文件。 |
 | Navicat                                  | mysql数据库管理工具                             |
+| SQLite Expert                            | 一款可视化SQLite数据库管理工具，SQLite Expert允许用户在SQLite 服务器上执行创建、编辑、复制、提取等操作。 |
 
 ## IDE
 
@@ -111,7 +112,9 @@
 | [jude](http://astah.net/editions/community) | 一个小巧实用的UML建模软件                           |
 | [Diagram Designer](http://meesoft.logicnet.dk/DiagramDesigner/) | 一款小巧易用的流程图工具，如果你对于流程图没有特殊的要求，那么这款小软件足够满足你的需求，最重要的是它完全免费。 |
 | StarUML                                  | UML工具                                    |
-| Visio                                    | 微软的UML工具                                 |
+| Visio                                    | 用图形方式来表达各种商业图形用途的工具                      |
+| Rational Rose                            | 直接从UML发展而诞生的设计工具                         |
+| PowerDesign                              | 对数据库建模而发展起来的一种数据库建模工具                    |
 
 ## 编辑器
 
@@ -121,8 +124,9 @@
 | EMACS     | 著名的集成开发环境和文本编辑器。Emacs被公认为是最受专业程序员喜爱的代码编辑器之一，另外一个vim |
 | Atom      | GitHub出品的文本编辑器                           |
 | Sublime   | 最好用的文本编辑器之一                              |
-| Notepad++ | 文本编辑器                                    |
-| EditPlus  | 文本编辑器                                    |
+| Notepad++ | 免费开源的代码编辑器                               |
+| EditPlus  | 一款由韩国 Sangil Kim （ES-Computing）出品的小巧但是功能强大的可处理文本、HTML和程序语言的Windows编辑器，你甚至可以通过设置用户工具将其作为C,Java,Php等等语言的一个简单的IDE。 |
+| UltraEdit | 一套功能强大的、能够满足你一切编辑需要的文本编辑器；可以编辑文本、十六进制、ASCII码，可以取代记事本，内建英文单字检查、C++及VB指令突显，可同时编辑多个文件，而且即使开启很大的文件速度也不会慢。 |
 | Typora    | 免费的Markdown编辑器，所见即所得                     |
 | MdCharm   | Markdown编辑器                              |
 | FarBox    | Windows上最优雅的Markdown编辑工具                 |
@@ -187,11 +191,12 @@
 
 ## 反编译
 
-| 反编译工具   | 说明                |
-| :------ | :---------------- |
-| jadx    | 新一代反编译工具          |
-| apktool |                   |
-| 安卓逆向助手  | 反编译工具大合集，现在用的已经不多 |
-| dex2jar |                   |
-| JD-GUI  |                   |
-| procyon |                   |
+| 反编译工具                                    | 说明                |
+| :--------------------------------------- | :---------------- |
+| jadx                                     | 新一代反编译工具          |
+| apktool                                  |                   |
+| 安卓逆向助手                                   | 反编译工具大合集，现在用的已经不多 |
+| dex2jar                                  |                   |
+| JD-GUI                                   |                   |
+| procyon                                  |                   |
+| [ClassyShark](https://github.com/google/android-classyshark) | apk分析利器           |
