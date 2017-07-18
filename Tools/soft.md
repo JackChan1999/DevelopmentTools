@@ -80,6 +80,9 @@
 | Xftp                                     | Xftp：是一个应用于 Windows 平台的 FTP 和 SFTP 文件传输程序。Xftp能安全地在Unix/Linux 和 Windows 平台之间传输文件。 |
 | Navicat                                  | mysql数据库管理工具                             |
 | SQLite Expert                            | 一款可视化SQLite数据库管理工具，SQLite Expert允许用户在SQLite 服务器上执行创建、编辑、复制、提取等操作。 |
+| RadASM                                   | RadASM是一款著名的WIN32汇编编辑器，支持MASM、TASM等多种汇编编译器，Windows界面，支持语法高亮，自带一个资源编辑器和一个调试器。 |
+| OllyDbg                                  | 一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了。同时还支持插件扩展功能，是目前最强大的调试工具。 |
+| Cheat Engine                             | 一款内存修改编辑工具 ，它允许你修改你的游戏或软件内存数据，以得到一些其他功能。它包括16进制编辑，反汇编程序，内存查找工具。与同类修改工具相比，它具有强大的反汇编功能，且自身附带了外挂制作工具，可以用它直接生成外挂。 |
 
 ## IDE
 
@@ -92,6 +95,7 @@
 | Visual Studio  | 微软开发工具集                                  |
 | Qt Creator     | 一款新的轻量级集成开发环境                            |
 | Samba          | Samba是在Linux和UNIX系统上实现SMB协议的一个免费软件，由服务器及客户端程序构成 |
+| CodeBlocks     | 一个开放源码的全功能的跨平台C/C++集成开发环境                |
 
 ## 版本控制
 
@@ -188,6 +192,7 @@
 | CamtasiaStudio4                          | 录屏软件             |
 | [ScreenFlow](https://pan.baidu.com/s/1o8Kvr9C) | 录屏软件             |
 | FastStone Capture                        | 一款抓屏工具，体积小巧、功能强大 |
+| Camtasia Studio                          | 专业的屏幕录像和编辑的软件套装  |
 
 ## 反编译
 
@@ -200,3 +205,4 @@
 | JD-GUI                                   |                   |
 | procyon                                  |                   |
 | [ClassyShark](https://github.com/google/android-classyshark) | apk分析利器           |
+| IDA Pro                                  | 交互式反汇编器           |

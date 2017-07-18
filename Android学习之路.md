@@ -151,3 +151,22 @@ https://pan.baidu.com/share/home?uk=2673153485&view=share#category/type=0
 ## 强烈推荐
 
 [ANDROID学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/) 可能是最好的关于Android学习的文章！
+
+## 计算机专业课程结构
+
+- C语言程序设计
+- C++语言程序设计
+- 数据库原理
+- 数据结构
+- 算法导论：常用算法程序集（C/C++描述）（第5版）
+- 汇编语言程序设计
+- 计算机操作系统：计算机操作系统（[汤小丹](http://book.jd.com/writer/%E6%B1%A4%E5%B0%8F%E4%B8%B9_1.html)，[梁红兵](http://book.jd.com/writer/%E6%A2%81%E7%BA%A2%E5%85%B5_1.html)，[哲凤屏](http://book.jd.com/writer/%E5%93%B2%E5%87%A4%E5%B1%8F_1.html)，[汤子瀛](http://book.jd.com/writer/%E6%B1%A4%E5%AD%90%E7%80%9B_1.html) 著）
+- 计算机组成原理（计算机组成与结构 第5版）
+- 编译原理
+- 编码理论
+- 软件工程
+- 计算机网络：计算机网络（[谢希仁](https://book.jd.com/writer/%E8%B0%A2%E5%B8%8C%E4%BB%81_1.html) ）
+- 数字逻辑
+- 数字图像处理
+- 统一建模语言UML
+- 多媒体技术：多媒体技术基础及应用
