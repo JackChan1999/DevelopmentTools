@@ -56,7 +56,7 @@
 | [JsonViewer](http://www.bejson.com/)     | Json在线编辑                                 |
 | 午安浏览器                                    | 可以翻墙的浏览器，看见更大的世界                         |
 | Axure RP                                 | 原型图工具                                    |
-| [夜神安卓模拟器](https://www.yeshen.com/#p4)    | 全新一代的安卓模拟器，与传统安卓模拟器相比，基于ANDROID4.4.2,兼容X86/AMD,在性能、稳定性、兼容性等方面有着巨大优势 |
+| [夜神安卓模拟器](https://www.yeshen.com/#p4)    | 全新一代的安卓模拟器，与传统安卓模拟器相比，基于ANDROID4.4.2，兼容X86/AMD，在性能、稳定性、兼容性等方面有着巨大优势 |
 | [Genymotion](http://www.genymotion.net/) | 最快的安卓模拟器，测试与模拟APP应用必备                    |
 | Dash                                     | 大到你无法想象的API离线文档软件                        |
 | [JRebel](https://zeroturnaround.com/)    | Android 高效开发调试神器                         |
@@ -83,6 +83,8 @@
 | RadASM                                   | RadASM是一款著名的WIN32汇编编辑器，支持MASM、TASM等多种汇编编译器，Windows界面，支持语法高亮，自带一个资源编辑器和一个调试器。 |
 | OllyDbg                                  | 一个新的动态追踪工具，将IDA与SoftICE结合起来的思想，Ring 3级调试器，非常容易上手，己代替SoftICE成为当今最为流行的调试解密工具了。同时还支持插件扩展功能，是目前最强大的调试工具。 |
 | Cheat Engine                             | 一款内存修改编辑工具 ，它允许你修改你的游戏或软件内存数据，以得到一些其他功能。它包括16进制编辑，反汇编程序，内存查找工具。与同类修改工具相比，它具有强大的反汇编功能，且自身附带了外挂制作工具，可以用它直接生成外挂。 |
+| LogViewer Pro                            | 一款文本日志查看软件。它占用内存小，支持任意大小的文件(4GB或者更大)，支持高亮某行文字(例如警告、错误)，支持Unicode名字，支持查看的编码:ANSI，OEM，Unicode LE，Unicode BE等等，支持文件搜索、打印. |
+| [gtop](https://github.com/aksakalli/gtop) | System monitoring dashboard for terminal |
 
 ## IDE
 
@@ -129,9 +131,11 @@
 | Atom      | GitHub出品的文本编辑器                           |
 | Sublime   | 最好用的文本编辑器之一                              |
 | Notepad++ | 免费开源的代码编辑器                               |
-| EditPlus  | 一款由韩国 Sangil Kim （ES-Computing）出品的小巧但是功能强大的可处理文本、HTML和程序语言的Windows编辑器，你甚至可以通过设置用户工具将其作为C,Java,Php等等语言的一个简单的IDE。 |
+| EditPlus  | 一款由韩国 Sangil Kim （ES-Computing）出品的小巧但是功能强大的可处理文本、HTML和程序语言的Windows编辑器，你甚至可以通过设置用户工具将其作为C，Java，Php等等语言的一个简单的IDE。 |
 | UltraEdit | 一套功能强大的、能够满足你一切编辑需要的文本编辑器；可以编辑文本、十六进制、ASCII码，可以取代记事本，内建英文单字检查、C++及VB指令突显，可同时编辑多个文件，而且即使开启很大的文件速度也不会慢。 |
 | Typora    | 免费的Markdown编辑器，所见即所得                     |
+| StackEdit | Markdown编辑器                              |
+| Cmd       | Markdown 编辑阅读器                           |
 | MdCharm   | Markdown编辑器                              |
 | FarBox    | Windows上最优雅的Markdown编辑工具                 |
 
@@ -156,7 +160,7 @@
 | :---- | :-------------------------- |
 | 印象笔记  | 不支持markdown                 |
 | 有道云笔记 | 支持markdown                  |
-| 为知笔记  | 云笔记,团队协作,知识管理,记事本,日记本,信息过滤器 |
+| 为知笔记  | 云笔记，团队协作，知识管理，记事本，日记本，信息过滤器 |
 
 ## 搜索
 
@@ -178,6 +182,7 @@
 | JSONView                | json格式化                                  |
 | Dribbble New Tab        |                                          |
 | codota                  | 代码搜索利器                                   |
+| StackEdit               | markdown插件                               |
 
 ## 视频录制  
 

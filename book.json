@@ -1,7 +1,7 @@
 {
     "author": "AllenIverson",
     "description": "开发工具使用教程，包括但不限于Git，GitHub，GitBook，Android Studio，Sublime",
-    "gitbook": "3.2.2",
+    "gitbook": "3.2.3",
     "language": "zh-hans",
     "title": "开发工具使用教程",
     "pdf": {

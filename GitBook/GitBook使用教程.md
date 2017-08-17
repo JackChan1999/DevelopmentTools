@@ -49,6 +49,8 @@ npm config set registry http://registry.npm.taobao.org
 
 除了上面的方法外，我们也可以在用户主目录下编辑 .npmrc 文件，添加一行 registry=http://registry.npm.taobao.org 保存就可以了。用户的主目录一般在 C:\Users\Administrator ，具体随你的操作系统系统盘而定。
 
+npm使用介绍：http://www.runoob.com/nodejs/nodejs-npm.html
+
 # 4. 全局安装 gitbook
 
 现在我们可以开始安装全局的 gitbook 了。执行 npm install gitbook-cli -g 命令，进行安装。安装的过程中，由于需要下载安装包，因此大家需要等待一定的时间，具体时长取决于你的网速和硬件配置。
@@ -698,7 +700,12 @@ Gitbook默认带有5个插件：
 ]
 ```
 
-# 11. 更多GitBook教程
+# 11. 解决 npm 的 shasum check failed for 错误
+
+- https://segmentfault.com/a/1190000008073872
+- http://www.uedbox.com/npm-install-slow-solution/
+
+# 12. 更多GitBook教程
 
 - [GitBook 中文解說 - 2.4](https://www.gitbook.com/book/wastemobile/gitbook-chinese/details)
 - [gitbook-documentation](https://www.gitbook.com/book/zhanghqgit/gitbook-documentation/details)
