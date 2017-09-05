@@ -119,6 +119,7 @@ https://pan.baidu.com/share/home?uk=2673153485&view=share#category/type=0
 
 ## 大神博客，微博，微信
 
+- [HenCoder：给高级 Android 工程师的进阶手册](http://hencoder.com/)
 - [stormzhang](http://stormzhang.com/posts/)
 - [Gityuan](http://gityuan.com/)
 - [Hongyang](http://blog.csdn.net/lmj623565791)

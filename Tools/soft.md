@@ -131,6 +131,7 @@
 | EMACS     | 著名的集成开发环境和文本编辑器。Emacs被公认为是最受专业程序员喜爱的代码编辑器之一，另外一个vim |
 | Atom      | GitHub出品的文本编辑器                           |
 | Sublime   | 最好用的文本编辑器之一                              |
+| VS Code   | Visual Studio Code 一个轻量且强大的代码编辑器         |
 | Notepad++ | 免费开源的代码编辑器                               |
 | EditPlus  | 一款由韩国 Sangil Kim （ES-Computing）出品的小巧但是功能强大的可处理文本、HTML和程序语言的Windows编辑器，你甚至可以通过设置用户工具将其作为C，Java，Php等等语言的一个简单的IDE。 |
 | UltraEdit | 一套功能强大的、能够满足你一切编辑需要的文本编辑器；可以编辑文本、十六进制、ASCII码，可以取代记事本，内建英文单字检查、C++及VB指令突显，可同时编辑多个文件，而且即使开启很大的文件速度也不会慢。 |
