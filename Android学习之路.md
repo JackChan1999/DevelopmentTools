@@ -30,6 +30,7 @@ http://www.itheima.com/androidmap
 
 - [GitHub](https://github.com/)
 - [StackOverFlow](http://stackoverflow.com/)
+- [Codelabs](http://clmirror.storage.googleapis.com/index.html)
 - [极客学院](http://wiki.jikexueyuan.com/)
 - [黑马程序员](http://www.itheima.com/)
 - 慕课网
@@ -136,6 +137,11 @@ https://pan.baidu.com/share/home?uk=2673153485&view=share#category/type=0
 - [weishu](http://weishu.me/)
 - [技术视界](http://blog.coderclock.com/)
 - [老罗的Android之旅](http://blog.csdn.net/luoshengyang/article/details/6618363)
+
+## 优质博客
+
+- [drakeet-GitHub](https://github.com/drakeet) [博客](http://drakeet.me/) ： MultiType作者
+- [tough1985](https://github.com/tough1985) ：RxJava 与 Retrofit 结合的最佳实践
 
 ## 开源项目
 
