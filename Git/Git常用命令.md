@@ -1,4 +1,4 @@
-# 设置用户名和邮箱
+## 设置用户名和邮箱
 
 ```
 # 设置用户名
@@ -12,10 +12,8 @@ git init
 
 # 查看设置
 git config --list
-
-
 ```
-# 常见操作
+## 常见操作
 ```
 git status
 git log
@@ -56,7 +54,7 @@ git reset --hard HEAD^
 # 命令记录
 git reflog
 ```
-# 远程分支
+## 远程分支
 
 ```
 git remote 
@@ -71,7 +69,7 @@ git remote rename
 git remote rm
 ```
 
-# Git 别名
+## Git 别名
 
 ```
 $ git config --global alias.co checkout
@@ -80,7 +78,7 @@ $ git config --global alias.ci commit
 $ git config --global alias.st status
 
 ```
-# 分支branch
+## 分支branch
 
 ```
 # 创建分支
@@ -112,7 +110,7 @@ git merge
 git rebase master
 
 ```
-# stash
+## stash
 
 ```
 # 把没有commit的代码暂存起来
@@ -139,12 +137,21 @@ git stash clear
 - bugfix
 - release
 
-# 使用Git遇到的问题
+## 使用Git遇到的问题
 
-## refusing to merge unrelated histories
+### refusing to merge unrelated histories
 
 ```
 # 在命令后面加上 --allow-unrelated-histories
 git pull origin master --allow-unrelated-histories
 ```
 
+### 解决git push错误
+
+The requested URL returned error: 403 Forbidden while accessing
+
+答案：私有项目，没有权限，输入用户名密码，或者远程地址采用这种类型：
+
+vi .git/config # 将[remote "origin"]      url = https://github.com/用户名/仓库名.git
+
+修改为：[remote "origin"]    url = https://用户名:密码@github.com/用户名/仓库名.git

@@ -98,6 +98,16 @@
 | MdCharm   | Markdown编辑器                              |
 | FarBox    | Windows上最优雅的Markdown编辑工具                 |
 
+## 博客平台
+
+| 博客平台                                   | 描述                                       |
+| -------------------------------------- | ---------------------------------------- |
+| [Hexo]()                               | 一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。 |
+| [WordPress](https://cn.wordpress.org/) | WordPress是一个注重美学、易用性和网络标准的个人信息发布平台。      |
+
+- [hexo-china](https://hexo-china.org/)
+- [Hexo 中文版](http://wiki.jikexueyuan.com/project/hexo-document)
+
 ## Bug管理工具
 
 | 软件/工具                                    | 功能描述                                     |
