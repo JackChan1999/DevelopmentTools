@@ -153,6 +153,7 @@
 | Firebase                   | 云服务              |
 | Foxmail                    | 邮件管理             |
 | Licecap                    | 最简单的屏幕录制工具，生成gif |
+| IDM                        | 一个下载管理工具         |
 
 ## 思维导航
 
@@ -188,7 +189,7 @@
 
 ## 搜索
 
-- everything
+- Everything 文件搜索软件
 - google
 - 设置搜索文件内容可用
 
@@ -221,12 +222,15 @@
 | CamtasiaStudio4                          | 录屏软件                                     |
 | [ScreenFlow](https://pan.baidu.com/s/1o8Kvr9C) | 录屏软件                                     |
 | FastStone Capture                        | 一款抓屏工具，体积小巧、功能强大                         |
+| Snipaste                                 | 一个截图 + 贴纸软件                              |
 | Camtasia Studio                          | 专业的屏幕录像和编辑的软件套装                          |
 | [LiveView](http://ieway.cn/)             | 一款简单易用的桌面全屏录制软件，使用 H264 即时编码压缩成 MP4 文件，也支持声音录制 |
 | [EV录屏](http://ieway.cn/)                 | 一款集本地视频录制和在线视频直播推流等多项功能的多媒体软件，简洁易操作，功能强大，绿色免费。 |
 | [EV剪辑](http://ieway.cn/)                 | 一款操作简便易上手的视频编辑软件，可以任意拼接视频，能够在任意位置截断裁剪，操作简单，功能实用。 |
 | [EV加密播放](http://ieway.cn/)               | 一款集视频加密与解密播放于一体的多媒体视频播放器。适于需要保护的专业视频领域。  |
 | 快剪辑                                      | 360视频剪辑软件                                |
+| Apowersoft                               | Apowersoft录屏王                            |
+| [OBS Studio](http://www.obsapp.net/)     | 开放式广播软件是免费开源软件，用于视频录制和直播。                |
 
 ## 反编译
 
