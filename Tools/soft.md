@@ -34,6 +34,7 @@
 | SecureCRT                                | 是一款支持SSH（SSH1和SSH2）的终端仿真程序，简单地说是Windows下登录UNIX或Linux服务器主机的软件。 |
 | http.tar.gz                              | 用C语言编程的一个简单版webserver                    |
 | Xshell                                   | 一个Windows平台下的SSH、TELNET和RLOGIN终端软件。它使得用户能轻松和安全地在Windows平台上访问Unix/Linux 主机。 |
+| Putty                                    | ssh终端软件                                  |
 | Xftp                                     | Xftp：是一个应用于 Windows 平台的 FTP 和 SFTP 文件传输程序。Xftp能安全地在Unix/Linux 和 Windows 平台之间传输文件。 |
 | Navicat                                  | mysql数据库管理工具                             |
 | SQLite Expert                            | 一款可视化SQLite数据库管理工具，SQLite Expert允许用户在SQLite 服务器上执行创建、编辑、复制、提取等操作。 |
@@ -42,6 +43,7 @@
 | Cheat Engine                             | 一款内存修改编辑工具 ，它允许你修改你的游戏或软件内存数据，以得到一些其他功能。它包括16进制编辑，反汇编程序，内存查找工具。与同类修改工具相比，它具有强大的反汇编功能，且自身附带了外挂制作工具，可以用它直接生成外挂。 |
 | LogViewer Pro                            | 一款文本日志查看软件。它占用内存小，支持任意大小的文件(4GB或者更大)，支持高亮某行文字(例如警告、错误)，支持Unicode名字，支持查看的编码:ANSI，OEM，Unicode LE，Unicode BE等等，支持文件搜索、打印. |
 | [gtop](https://github.com/aksakalli/gtop) | System monitoring dashboard for terminal |
+| TeamViewer                               | 一个能在任何防火墙和NAT代理的后台用于远程控制的应用程序，桌面共享和文件传输的简单且快速的解决方案。 |
 
 ## IDE
 
