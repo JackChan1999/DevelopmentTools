@@ -143,7 +143,7 @@ git stash clear
 
 ### refusing to merge unrelated histories
 
-```
+```bash
 # 在命令后面加上 --allow-unrelated-histories
 git pull origin master --allow-unrelated-histories
 ```
@@ -157,3 +157,10 @@ The requested URL returned error: 403 Forbidden while accessing
 vi .git/config # 将[remote "origin"]      url = https://github.com/用户名/仓库名.git
 
 修改为：[remote "origin"]    url = https://用户名:密码@github.com/用户名/仓库名.git
+
+### 中文显示为数字的解决方法
+
+```bash
+git config --global core.quotepath false
+```
+
