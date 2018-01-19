@@ -1,46 +1,3 @@
-## 网站
-
-| 网站                                       | 说明                                       |
-| :--------------------------------------- | :--------------------------------------- |
-| [AndroidDevTools](http://www.androiddevtools.cn/) | 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等 |
-| GitHub                                   | 全球最大的程序员同性交友网站                           |
-| StackOverflow                            | 著名的IT技术问答网站                              |
-| CSDN                                     | 中国最大的IT社区和服务平台                           |
-| grepcode.com                             | 源码网站                                     |
-| AndroidXref                              | 在线源代码搜索                                  |
-| 极客学院                                     | Material Design、wiki                     |
-| [Android经典开源代码分享](http://www.23code.com) | UI特效大全(android经典开源代码分享)                  |
-| 慕课网                                      |                                          |
-| 黑马程序员                                    |                                          |
-| 360代码卫士                                  |                                          |
-| http://editor.method.ac/                 | 矢量图绘制网站                                  |
-| http://inloop.github.io/svg2android/     | svg转换工具                                  |
-
-## 软件
-
-| 软件                         | 说明               |
-| :------------------------- | :--------------- |
-| securecrt                  | 虚拟机              |
-| VMware                     | 虚拟机，收费           |
-| VirtualBox                 | 虚拟机，免费           |
-| FreeVideoToGif             | gif图片处理          |
-| ScreenToGif                | gif图片处理          |
-| 豆约翰博客备份专家                  | 博客备份             |
-| GifCam                     | gif录制            |
-| SQLite_Expert_Professional | 数据库专家            |
-| MarkMan                    | 镜像：www.wacao.org |
-| Firebase                   | 云服务              |
-| Foxmail                    | 邮件管理             |
-| Licecap                    | 最简单的屏幕录制工具，生成gif |
-
-## 思维导航
-
-| 软件/网站       | 说明                       |
-| :---------- | :----------------------- |
-| MindManager | 思维导航                     |
-| Xmind       | 思维导航                     |
-| ProcessOn   | 免费在线作图，实时协作，思维导航，流程图，UML |
-
 ## 开发工具
 
 | 开发工具                                     | 说明                                       |
@@ -77,6 +34,7 @@
 | SecureCRT                                | 是一款支持SSH（SSH1和SSH2）的终端仿真程序，简单地说是Windows下登录UNIX或Linux服务器主机的软件。 |
 | http.tar.gz                              | 用C语言编程的一个简单版webserver                    |
 | Xshell                                   | 一个Windows平台下的SSH、TELNET和RLOGIN终端软件。它使得用户能轻松和安全地在Windows平台上访问Unix/Linux 主机。 |
+| Putty                                    | ssh终端软件                                  |
 | Xftp                                     | Xftp：是一个应用于 Windows 平台的 FTP 和 SFTP 文件传输程序。Xftp能安全地在Unix/Linux 和 Windows 平台之间传输文件。 |
 | Navicat                                  | mysql数据库管理工具                             |
 | SQLite Expert                            | 一款可视化SQLite数据库管理工具，SQLite Expert允许用户在SQLite 服务器上执行创建、编辑、复制、提取等操作。 |
@@ -85,6 +43,7 @@
 | Cheat Engine                             | 一款内存修改编辑工具 ，它允许你修改你的游戏或软件内存数据，以得到一些其他功能。它包括16进制编辑，反汇编程序，内存查找工具。与同类修改工具相比，它具有强大的反汇编功能，且自身附带了外挂制作工具，可以用它直接生成外挂。 |
 | LogViewer Pro                            | 一款文本日志查看软件。它占用内存小，支持任意大小的文件(4GB或者更大)，支持高亮某行文字(例如警告、错误)，支持Unicode名字，支持查看的编码:ANSI，OEM，Unicode LE，Unicode BE等等，支持文件搜索、打印. |
 | [gtop](https://github.com/aksakalli/gtop) | System monitoring dashboard for terminal |
+| TeamViewer                               | 一个能在任何防火墙和NAT代理的后台用于远程控制的应用程序，桌面共享和文件传输的简单且快速的解决方案。 |
 
 ## IDE
 
@@ -141,6 +100,71 @@
 | MdCharm   | Markdown编辑器                              |
 | FarBox    | Windows上最优雅的Markdown编辑工具                 |
 
+## 博客平台
+
+| 博客平台                                   | 描述                                       |
+| -------------------------------------- | ---------------------------------------- |
+| [Hexo]()                               | 一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。 |
+| [WordPress](https://cn.wordpress.org/) | WordPress是一个注重美学、易用性和网络标准的个人信息发布平台。      |
+
+- [hexo-china](https://hexo-china.org/)
+- [Hexo 中文版](http://wiki.jikexueyuan.com/project/hexo-document)
+
+## Bug管理工具
+
+| 软件/工具                                    | 功能描述                                     |
+| ---------------------------------------- | ---------------------------------------- |
+| [bugzilla](https://www.bugzilla.org/)    | bug跟踪管理系统                                |
+| [JIRA](https://atlassian.com/software/jira) | Bug跟踪管理工具                                |
+| BugFree                                  | 借鉴微软的研发流程和Bug管理理念，使用PHP+MySQL独立写出的一个Bug管理系统 |
+| TestDirector                             | 全球最大的[软件测试工具](https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)提供商Mercury Interactive公司生产的企业级[测试管理工具](https://baike.baidu.com/item/%E6%B5%8B%E8%AF%95%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)，也是业界第一个基于Web的测试管理系统，它可以在您公司内部或外部进行全球范围内测试的管理。 |
+| ClearQuest                               | IBM Rational提供的缺陷及[变更管理](https://baike.baidu.com/item/%E5%8F%98%E6%9B%B4%E7%AE%A1%E7%90%86/9827003)工具 |
+| MantisBT                                 | Mantis是一个基于PHP技术的轻量级的开源[缺陷跟踪系统](https://baike.baidu.com/item/%E7%BC%BA%E9%99%B7%E8%B7%9F%E8%B8%AA%E7%B3%BB%E7%BB%9F)，以Web操作的形式提供项目管理及缺陷跟踪服务 |
+
+## 网站
+
+| 网站                                       | 说明                                       |
+| :--------------------------------------- | :--------------------------------------- |
+| [AndroidDevTools](http://www.androiddevtools.cn/) | 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等 |
+| GitHub                                   | 全球最大的程序员同性交友网站                           |
+| StackOverflow                            | 著名的IT技术问答网站                              |
+| CSDN                                     | 中国最大的IT社区和服务平台                           |
+| grepcode.com                             | 源码网站                                     |
+| AndroidXref                              | 在线源代码搜索                                  |
+| 极客学院                                     | Material Design、wiki                     |
+| [Android经典开源代码分享](http://www.23code.com) | UI特效大全(android经典开源代码分享)                  |
+| 慕课网                                      |                                          |
+| 黑马程序员                                    |                                          |
+| 360代码卫士                                  |                                          |
+| http://editor.method.ac/                 | 矢量图绘制网站                                  |
+| http://inloop.github.io/svg2android/     | svg转换工具                                  |
+
+## 软件
+
+| 软件                         | 说明               |
+| :------------------------- | :--------------- |
+| securecrt                  | 虚拟机              |
+| VMware                     | 虚拟机，收费           |
+| VirtualBox                 | 虚拟机，免费           |
+| FreeVideoToGif             | gif图片处理          |
+| ScreenToGif                | gif图片处理          |
+| 豆约翰博客备份专家                  | 博客备份             |
+| GifCam                     | gif录制            |
+| SQLite_Expert_Professional | 数据库专家            |
+| MarkMan                    | 镜像：www.wacao.org |
+| Firebase                   | 云服务              |
+| Foxmail                    | 邮件管理             |
+| Licecap                    | 最简单的屏幕录制工具，生成gif |
+| IDM                        | 一个下载管理工具         |
+
+## 思维导航
+
+| 软件/网站       | 说明                       |
+| :---------- | :----------------------- |
+| MindManager | 思维导航                     |
+| Xmind       | 思维导航                     |
+| ProcessOn   | 免费在线作图，实时协作，思维导航，流程图，UML |
+
 ## 网络
 
 | 软件              | 说明             |
@@ -158,15 +182,16 @@
 
 ## 云笔记
 
-| 软件    | 说明                          |
-| :---- | :-------------------------- |
-| 印象笔记  | 不支持markdown                 |
-| 有道云笔记 | 支持markdown                  |
-| 为知笔记  | 云笔记，团队协作，知识管理，记事本，日记本，信息过滤器 |
+| 软件    | 说明                                  |
+| :---- | :---------------------------------- |
+| 印象笔记  | 不支持markdown                         |
+| 有道云笔记 | 支持markdown                          |
+| 为知笔记  | 云笔记，团队协作，知识管理，记事本，日记本，信息过滤器         |
+| 蚂蚁笔记  | 有极客范的云笔记， 蚂蚁笔记 = 笔记 + 博客 + 协作 + 私有云 |
 
 ## 搜索
 
-- everything
+- Everything 文件搜索软件
 - google
 - 设置搜索文件内容可用
 
@@ -190,20 +215,24 @@
 
 | 软件                                       | 说明                                       |
 | :--------------------------------------- | :--------------------------------------- |
-| Bandicam                                 |                                          |
+| Bandicam                                 | 视频录制软件                                   |
 | [红蜘蛛软件](http://www.3000soft.net/)        | 红蜘蛛多媒体网络教室软件                             |
 | 锐动多媒体                                    | 屏幕录制                                     |
 | CamRecorder                              | 视频录制                                     |
-| [红烛电子教鞭](http://3000soft.net/)           |                                          |
+| [红烛电子教鞭](http://3000soft.net/)           | 电子教鞭                                     |
 | LICEcap                                  | 一款屏幕录制工具                                 |
 | CamtasiaStudio4                          | 录屏软件                                     |
 | [ScreenFlow](https://pan.baidu.com/s/1o8Kvr9C) | 录屏软件                                     |
 | FastStone Capture                        | 一款抓屏工具，体积小巧、功能强大                         |
+| Snipaste                                 | 一个截图 + 贴纸软件                              |
 | Camtasia Studio                          | 专业的屏幕录像和编辑的软件套装                          |
 | [LiveView](http://ieway.cn/)             | 一款简单易用的桌面全屏录制软件，使用 H264 即时编码压缩成 MP4 文件，也支持声音录制 |
 | [EV录屏](http://ieway.cn/)                 | 一款集本地视频录制和在线视频直播推流等多项功能的多媒体软件，简洁易操作，功能强大，绿色免费。 |
 | [EV剪辑](http://ieway.cn/)                 | 一款操作简便易上手的视频编辑软件，可以任意拼接视频，能够在任意位置截断裁剪，操作简单，功能实用。 |
 | [EV加密播放](http://ieway.cn/)               | 一款集视频加密与解密播放于一体的多媒体视频播放器。适于需要保护的专业视频领域。  |
+| 快剪辑                                      | 360视频剪辑软件                                |
+| Apowersoft                               | Apowersoft录屏王                            |
+| [OBS Studio](http://www.obsapp.net/)     | 开放式广播软件是免费开源软件，用于视频录制和直播。                |
 
 ## 反编译
 
