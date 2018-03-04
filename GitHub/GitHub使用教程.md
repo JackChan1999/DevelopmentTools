@@ -12,7 +12,7 @@ typora-copy-images-to: img
 
 ## 使用ssh方式提交
 
-![1506417149761](D:\GitBook\alleniverson\development-tools\GitHub\img/1506417149761.png)
+![ssh](img/1506417149761.png)
 
 ```bash
 # 使用 https 方式提交每次都要输入账号密码
