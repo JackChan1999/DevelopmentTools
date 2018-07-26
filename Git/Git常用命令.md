@@ -5,7 +5,7 @@
 git config --global user.name 'AllenIverson'
 
 # 设置用户名邮箱
-git config --global user.email '619888095@qq.com
+git config --global user.email '619888095@qq.com'
 
 # 初始化仓库
 git init
