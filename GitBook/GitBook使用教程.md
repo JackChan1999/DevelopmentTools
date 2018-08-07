@@ -390,6 +390,8 @@ Error: Couldn't locate plugins "baidu, donate", Run 'gitbook install' to install
 
 ![gitbook install](http://upload-images.jianshu.io/upload_images/3981391-0e12415cc8846989.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+**注意：在md文件中不能出现 {{ 和 }} ，否则无法生成pdf文件，改成 { { 和 } } 即可**
+
 # 8. [gitbook-convert](https://github.com/GitbookIO/gitbook-convert)
 把docx、xml、html、odt文档转成GitBook
 
@@ -710,3 +712,7 @@ Gitbook默认带有5个插件：
 - [GitBook 中文解說 - 2.4](https://www.gitbook.com/book/wastemobile/gitbook-chinese/details)
 - [gitbook-documentation](https://www.gitbook.com/book/zhanghqgit/gitbook-documentation/details)
 - [gitbook-documentation](https://www.gitbook.com/book/chestnutme/gitbook-documentation/details)
+
+# 13. 新版Gitbook
+
+旧版迁移到 https://legacy.gitbook.com/ 
